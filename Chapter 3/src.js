@@ -20,3 +20,9 @@ var number;
 number = 38 + 64;
 console.log(number)
  
+// Task 5 
+
+var merchTotal = 100;
+var shippingCharge = 10;
+var orderTotal = merchTotal + shippingCharge;
+console.log(orderTotal)
